@@ -1,4 +1,3 @@
-Problem Statement
 Traditional physiotherapy relies heavily on manual observation, which can be time‑consuming for both patients and physiotherapists and may lead to human error, such as misinterpretation or misdiagnosis. This project addresses these limitations by using AI‑based pose detection and body landmarking to generate more precise movement analysis and visual feedback for patients.
-Project Aim
+
 The aim of this project is to integrate AI into physiotherapy to provide an alternative support tool for both clinicians and patients. By enhancing visual analysis of movement and posture, the system aims to improve in‑person rehabilitation and support tele‑physiotherapy when physical appointments are not available, enabling more accessible and data‑driven rehabilitation support.
